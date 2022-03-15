@@ -18,6 +18,7 @@ public class Person {
 
     private String phome;
 
-
-
+    public String getId() {
+        return id;
+    }
 }
